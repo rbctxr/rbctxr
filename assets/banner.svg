@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rebeca — Análise de Dados e IA</title>
+  <desc id="desc">Banner inspirado no velho oeste, com pôr do sol, estrelas, cactos e moldura dourada.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#241b2d"/>
+      <stop offset=".58" stop-color="#8d493b"/>
+      <stop offset="1" stop-color="#e49a59"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#ffe0a0"/><stop offset="1" stop-color="#d97745"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <circle cx="600" cy="165" r="104" fill="url(#sun)" opacity=".95"/>
+  <path d="M496 165h208M502 190h196M520 215h160M548 240h104" stroke="#7c3f3a" stroke-width="9" opacity=".55"/>
+  <path d="M0 246 120 190l75 42 105-88 110 93 100-57 90 67 95-86 92 66 103-105 100 94 110-54v138H0Z" fill="#392b35"/>
+  <path d="M0 270 150 228l95 42 130-61 115 65 120-46 110 45 120-66 105 55 125-52 130 56v54H0Z" fill="#211e2a"/>
+  <g fill="#f7d99a">
+    <path d="m135 48 5 12 13 1-10 8 3 13-11-7-11 7 3-13-10-8 13-1z"/>
+    <path d="m1010 55 4 10 11 1-8 7 2 11-9-6-9 6 2-11-8-7 11-1z"/>
+    <circle cx="260" cy="82" r="3"/><circle cx="930" cy="105" r="3"/><circle cx="1080" cy="145" r="2"/>
+  </g>
+  <g fill="#171a22">
+    <path d="M95 320v-92h-12v-30h12v-20q0-28 28-28h18v26h-12q-8 0-8 9v13h20v30h-20v92z"/>
+    <path d="M1065 320v-84q0-12-10-12t-10 12v84h-24v-92q0-31 34-31t34 31v92zM1045 184h24v-24h-24z"/>
+    <path d="M190 320v-55q0-16 16-16t16 16v55h-22v-38q0-5-4-5t-4 5v38z"/>
+  </g>
+  <rect x="18" y="18" width="1164" height="284" rx="9" fill="none" stroke="#e7bd78" stroke-width="4"/>
+  <rect x="28" y="28" width="1144" height="264" rx="5" fill="none" stroke="#f7dfad" stroke-width="1.5" opacity=".7"/>
+  <text x="600" y="139" text-anchor="middle" fill="#fff0cf" font-family="Georgia,serif" font-size="24" letter-spacing="9">PORTFÓLIO</text>
+  <text x="600" y="190" text-anchor="middle" fill="#fff8e9" font-family="Georgia,serif" font-size="64" font-weight="bold" letter-spacing="5">REBECA</text>
+  <text x="600" y="226" text-anchor="middle" fill="#ffe0a0" font-family="Arial,sans-serif" font-size="17" font-weight="bold" letter-spacing="3">ANÁLISE DE DADOS · PYTHON · SQL · TABLEAU · IA</text>
+</svg>
